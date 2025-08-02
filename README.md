@@ -14,18 +14,10 @@ Features
 	•	Random and tricky science & logic questions!
  
 Getting Started
-1. Clone the repository:
-   git clone https://github.com/yourusername/kbc-quiz-game.git
-cd kbc-quiz-game
-
-3. Install requirements:
+ Install requirements:
    pip install pillow pygame
 
-   3. Assets:
-	•	Place your start screen image as  assets/screen.jpg  (recommended: 800x450px).
-	•	Place your start screen audio in the project root as  audio.mp3 .
-	•	Place your KBC logo as  kbc_logo.png  in the project root.
-4. Run the game:
+ Run the game:
    python kbc_quiz.py
 
 Controls
